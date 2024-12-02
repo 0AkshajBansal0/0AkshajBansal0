@@ -39,7 +39,16 @@
 
 <br/>
 
-
+<div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br/>
+</div>
+<div align="center">
+    
+  ![snake gif](https://github.com/0AkshajBansal0/0AkshajBansal0/blob/output/github-snake-dark.svg)
+</div>
+<br/>
+	
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
