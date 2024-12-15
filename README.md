@@ -49,9 +49,3 @@
 </div>
 <br/>
 	
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=0akshajbansal0&show_icons=true&locale=en&layout=compact" alt="0akshajbansal0" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=0akshajbansal0&show_icons=true&locale=en" alt="0akshajbansal0" />
-</div>
