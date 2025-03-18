@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Js Frameworks, AI**
 
-- 👨‍💻 All about me is available at <a href="https://www.linkedin.com/in/akshaj-bansal-44a6211b8/">Here...</a>
+- 👨‍💻 All about me is available at <a href="https://akshajbansal-portfolio.vercel.app/"> My Website..!!</a>
 
 - 📫 How to reach me **bansalakshaj@gmail.com**
 
