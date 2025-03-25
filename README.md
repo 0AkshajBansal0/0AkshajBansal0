@@ -9,11 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0akshajbansal0&label=Profile%20views&color=0e75b6&style=flat" alt="0akshajbansal0" /> </p>
 
 
-- 🌱 I’m currently learning **Js Frameworks, AI**
+- 🌱 I’m currently learning **ML, Blockchain**
+
+- 🔭 I’m currently working on [Rhythmix](https://github.com/0AkshajBansal0/Rhythmix)
 
 - 👨‍💻 All about me is available at <a href="https://akshajbansal-portfolio.vercel.app/"> My Website..!!</a>
 
 - 📫 How to reach me **bansalakshaj@gmail.com**
+
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1UXMKwI93KZzFFaj7dfiC8VQTiToJD6O3/view?usp=sharing)
 
 - ⚡ Fun fact :- **My code works.. just not the first time!**
 
